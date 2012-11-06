@@ -35,3 +35,8 @@ div.side-bar {
 div.main-content {
     clear: both;
 }
+
+.content {
+    float: left;
+    width: 60%;
+}
