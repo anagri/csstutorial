@@ -1,0 +1,11 @@
+task, hints
+move user information to right hand side, position
+move header to center, text-align
+align navigation bar to right in horizontal layout, float
+align sub-navigation to left, float;clear
+align main content on right, float
+color sub-navigation bar, margin;padding;background;border
+have non-scrolling header, position: absolute; padding 
+align footer, text-align
+
+
